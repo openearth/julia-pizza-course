@@ -51,3 +51,9 @@ install Jupyter via Conda, y/n? [y]:
 ```
 
 ![jupyter screenshot](fig/jupyter.png)
+
+
+## Index
+This pizza course consists of the following notebooks (in order):
+- intro.ipynb  General introduction to Julia
+- differences.ipynb  Noticable differences to Python
